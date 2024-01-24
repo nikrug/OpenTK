@@ -1,0 +1,10 @@
+C:\Users\Никита\Desktop\SolarSystem-dev\bin\Debug\OpenTKTut.exe.config
+C:\Users\Никита\Desktop\SolarSystem-dev\bin\Debug\OpenTKTut.exe
+C:\Users\Никита\Desktop\SolarSystem-dev\bin\Debug\OpenTKTut.pdb
+C:\Users\Никита\Desktop\SolarSystem-dev\bin\Debug\OpenTK.dll
+C:\Users\Никита\Desktop\SolarSystem-dev\bin\Debug\OpenTK.pdb
+C:\Users\Никита\Desktop\SolarSystem-dev\bin\Debug\OpenTK.xml
+C:\Users\Никита\Desktop\SolarSystem-dev\obj\Debug\ГМСАПР лаб 3.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\SolarSystem-dev\obj\Debug\OpenTKTut.exe
+C:\Users\Никита\Desktop\SolarSystem-dev\obj\Debug\OpenTKTut.pdb
+C:\Users\Никита\Desktop\SolarSystem-dev\obj\Debug\ГМСАПР лаб 3.csproj.CopyComplete
